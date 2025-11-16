@@ -1,0 +1,7 @@
+{
+    "functionId": "$id",
+    "name": "createStaffUser",
+    "runtime": "node-16.0",
+    "entrypoint": "src/index.js",
+    "execute": []
+}

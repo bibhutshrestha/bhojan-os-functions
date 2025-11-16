@@ -1,0 +1,9 @@
+{
+    "name": "create-staff-user",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "dependencies": {
+        "node-appwrite": "^11.1.0"
+    }
+}
